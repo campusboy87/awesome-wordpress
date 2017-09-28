@@ -51,3 +51,17 @@
 ## Создание Backups
 
 * [Duplicator — WordPress Migration Plugin](https://ru.wordpress.org/plugins/duplicator/) — Duplicator предоставляет возможность миграции, копирования, перемещения или клонирования сайта (файлов и БД) из одного места в другое, а также служит простой утилитой резервного копирования. Duplicator обрабатывает как сериализованные массивы, так и сериализацию в виде строки base64.
+
+<table>
+  <tr>
+    <th colspan="3">Broken Link Checker</th>
+  </tr>
+  <tr>
+    <td colspan="3">Поиск битых ссылок на сайте</td>
+  </tr>
+  <tr>
+    <td>Плагин</td>
+    <td>Скачать с репозитория</td>
+    <td>Официальная документация</td>
+  </tr>
+</table>
